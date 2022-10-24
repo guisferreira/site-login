@@ -52,3 +52,8 @@ section#login > div#formulario {
     display: block;
     padding: 10px;
 }
+
+section#login > div#formulario > form {
+    padding: 10px;
+    margin: auto;
+}
